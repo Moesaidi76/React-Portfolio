@@ -4,7 +4,7 @@
 
 [Launch Updated Portfolio Page]
 
-- [My Site](https://moesaidi76.github.io/Updated-Portfolio-Page/.) .
+- [My Site](https://github.com/Moesaidi76/React-portfolio/.) .
 
 ## Requirements
 
